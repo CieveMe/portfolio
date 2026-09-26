@@ -2,6 +2,10 @@
 
 **Role**: full-stack developer / delivery owner · **Period**: 2026 · **Team**: me + client-side testers
 
+![Scope wireframe](assets/01-scope-wireframe.png)
+
+*The scope wireframe the delivery was planned from — client and personal identifiers blurred. The finished system was validated against the client's own cameras and devices, not against this sketch.*
+
 ## The problem
 
 The client ran a fleet-and-site operation with cameras and vehicle-mounted devices from several vendors. They needed one console for live preview, playback, vehicle location, RFID events and department-level permissions — and they needed it delivered as a runnable system, not a demo, because the device side could only be validated on site.
