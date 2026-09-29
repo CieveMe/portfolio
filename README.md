@@ -2,7 +2,7 @@
 
 Written-up delivery work, with the constraints and the numbers. Client names, contracts, customer data and internal endpoints are intentionally omitted; everything here is either my own architecture description or a sanitised metric.
 
-**Contact** · [13381875196@163.com](mailto:13381875196@163.com) · [LinkedIn](https://www.linkedin.com/in/zhen-he-a2336a43a) · [GitHub](https://github.com/CieveMe)
+**Contact** · [cieve94107@gmail.com](mailto:cieve94107@gmail.com) · [LinkedIn](https://www.linkedin.com/in/zhen-he-a2336a43a) · [GitHub](https://github.com/CieveMe)
 
 ---
 
